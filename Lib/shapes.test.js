@@ -1,5 +1,5 @@
 
-import { createLogo } from './Shapes';
+import { createLogo } from './shapes';
 
 
 test('Create logo with valid parameters', () => {

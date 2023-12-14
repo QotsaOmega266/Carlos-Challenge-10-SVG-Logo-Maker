@@ -1,7 +1,7 @@
 
 const inquirer = require("inquirer");
 const fs = require("fs");
-const shapes = require("./Lib/Shapes");
+const shapes = require("./Lib/shapes");
 const render = require("./Lib/generateLogo");
 const renderSVG = require("./Lib/generateLogo");
 
